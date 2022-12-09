@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://nbtkmy.github.io/openbadgesTest/assertion1.json",
+    "id": "https://nbtkmy.github.io/openbadgesTest/assertion0.json",
     "type": "Assertion",
     "recipient": {
       "type": "email",
