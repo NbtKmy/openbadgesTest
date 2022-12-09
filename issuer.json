@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://nbtkmy.github.io/openbadgesTest/issuer.json",
+    "type": "Profile",
+    "name": "Example Society",
+    "url": "https://nbtkmy.org"
+  }
