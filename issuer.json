@@ -4,6 +4,7 @@
     "type": "Profile",
     "name": "Example Society",
     "url": "https://j-images.ch/",
+    "email": "nobuta77to99@hotmail.com",
     "verification": {
         "allowedOrigins": "j-images.ch"
      }
