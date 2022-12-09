@@ -4,9 +4,8 @@
     "type": "Assertion",
     "recipient": {
       "type": "email",
-      "identity": "f5628febc289c4d17cd054c65e6b5a14a3c5dbc2",
-      "hashed": true,
-      "salt": "Jjeinteteitene"
+      "identity": "1797af3998b5b0285c3e48fd14ea50c467d720ec632cc7b404f580cd364eaf53",
+      "hashed": true
       },
     "issuedOn": "2022-12-08T23:59:59+00:00",
     "verification": {
