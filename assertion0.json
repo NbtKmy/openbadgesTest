@@ -1,0 +1,34 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://nbtkmy.github.io/openbadgesTest/assertion1.json",
+    "type": "Assertion",
+    "recipient": {
+      "type": "email",
+      "identity": "f5628febc289c4d17cd054c65e6b5a14a3c5dbc2",
+      "hashed": true,
+      "salt": "Jjeinteteitene"
+      },
+    "issuedOn": "2022-12-08T23:59:59+00:00",
+    "verification": {
+      "type": "hosted"
+    },
+    "badge": {
+        "type": "BadgeClass",
+        "id": "https://nbtkmy.github.io/openbadgesTest/badge17.json",
+        "name": "Sustainability 17",
+        "description": "This badge is awarded for sustainablity challenge of a library.",
+        "image": "https://nbtkmy.github.io/openbadgesTest/img/SDGs_17.png",
+        "criteria": {
+          "narrative": "Libraries are assessed on her praxis. This badge goes to the library that made effort for the SDG17 at most."
+        },
+        "issuer": {
+            "id": "https://nbtkmy.github.io/openbadgesTest/issuer.json",
+            "type": "Profile",
+            "name": "Example Society",
+            "url": "https://j-images.ch/",
+            "verification": {
+                "allowedOrigins": "j-images.ch"
+             }
+          }
+    }
+  }

@@ -3,5 +3,8 @@
     "id": "https://nbtkmy.github.io/openbadgesTest/issuer.json",
     "type": "Profile",
     "name": "Example Society",
-    "url": "https://nbtkmy.org"
+    "url": "https://j-images.ch/",
+    "verification": {
+        "allowedOrigins": "j-images.ch"
+     }
   }
