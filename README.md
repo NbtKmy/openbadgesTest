@@ -2,6 +2,7 @@
 This is an example badge (applied open badges standard).
 You can download the example badge hier: https://nbtkmy.github.io/openbadgesTest/testBadge.svg
 and then check it with a validator, if the badge works.
+If you need the assertion url, then this: https://nbtkmy.github.io/openbadgesTest/assertion1.json
 I've used [the validator of the Open Badge Factory](https://openbadgefactory.com/validator/).
 
 ## Note for creating assertion

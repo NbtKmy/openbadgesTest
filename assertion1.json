@@ -4,7 +4,7 @@
     "type": "Assertion",
     "recipient": {
       "type": "email",
-      "identity": "421adcb74de26f59764b47ff99aad2c22090991f66687cb8be9fd02f73cb6b5a",
+      "identity": "sha256$421adcb74de26f59764b47ff99aad2c22090991f66687cb8be9fd02f73cb6b5a",
       "hashed": true,
       "salt": "Jjeinteteitene"
       },

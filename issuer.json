@@ -3,9 +3,9 @@
     "id": "https://nbtkmy.github.io/openbadgesTest/issuer.json",
     "type": "Profile",
     "name": "Example Society",
-    "url": "https://j-images.ch/",
+    "url": "https://nbtkmy.github.io/",
     "email": "nobutake.kamiya@ub.uzh.ch",
     "verification": {
-        "allowedOrigins": "j-images.ch"
+        "allowedOrigins": "nbtkmy.github.io"
      }
   }
